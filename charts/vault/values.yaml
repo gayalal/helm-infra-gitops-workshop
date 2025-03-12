@@ -17,4 +17,4 @@ service:
 vault:
   key: password
   placeholder: "<password | base64encode>"
-  path: "kv-v2/data/demo"
+  path: "vault/secrets/data/demo"
